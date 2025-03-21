@@ -1,6 +1,6 @@
 ---
 title: "United Nations Voting Records"
-author: "The names of your group members go here!"
+author: "Catalina Dorado and Daniel Morehouse"
 format: 
   html: default
   gfm: default
